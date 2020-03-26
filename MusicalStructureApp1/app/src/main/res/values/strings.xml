@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Musical Structure App</string>
+
+    <string name="category_newreleases">New Releases</string>
+
+    <string name="category_nowplaying">Now Playing</string>
+
+    <string name="category_podcasts">Podcasts</string>
+
+    <string name="category_topcharts">Top Charts</string>
+
+    <string name="category_name" />
+
+</resources>
