@@ -21,3 +21,8 @@ I built this app with the structure of a Music app which would allow a user to p
 </ol>
 
 <h2>Screenshots</h2>
+<table><tr><td><img src="https://user-images.githubusercontent.com/34871894/79429325-9fb3e900-7f84-11ea-8434-dac995a2fa8a.jpg" width="400"></td>
+<td><img src="https://user-images.githubusercontent.com/34871894/79429330-a04c7f80-7f84-11ea-96fd-805fca5068c6.jpg" width="400"></td></tr>
+<tr><td><img src="https://user-images.githubusercontent.com/34871894/79429332-a04c7f80-7f84-11ea-9ffc-be0befb2937d.jpg" width="400"></td></tr>
+<tr><td><img src="https://user-images.githubusercontent.com/34871894/79429340-a0e51600-7f84-11ea-96d1-e6e5aab9155c.jpg" width="400"></td><td></td></tr></table>
+<td><img src="https://user-images.githubusercontent.com/34871894/79429343-a17dac80-7f84-11ea-892c-262e9053d4f9.jpg" width="400"></td>
